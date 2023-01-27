@@ -2,7 +2,7 @@
 
 ## Just open index.php file with your localhost server XAMPP or MAMP or what you usually use
 
-### For compile file style.css you must run sass command watch in assets folder
+### For compile file style.css you must run sass command --watch in assets folder
 ```
 sass --watch scss/base.scss:css/style.css --style=compressed
 ```
