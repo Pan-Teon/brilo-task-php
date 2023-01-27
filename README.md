@@ -1,4 +1,4 @@
-# Brilo task with PHP and SASS(SCSS)
+# Brilo task with PHP and SASS
 
 ## Just open index.php file with your localhost server XAMPP or MAMP or what you usually use
 
