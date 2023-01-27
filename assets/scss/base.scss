@@ -1,0 +1,15 @@
+@import '_variables';		// variables
+@import '_general';			// global rules
+@import '_typography';		// global staff
+@import '_header';			// navigation
+@import '_mixins';			// functions and mixins
+@import '_footer';			// footer staff
+@import '_image';			// image staff
+@import '_buttons';		    // buttons rules
+@import '_debug';		// buttons rules
+
+
+@import 'pages/_home';      // home rules
+
+
+@import '_responsive';      // responsive rules
