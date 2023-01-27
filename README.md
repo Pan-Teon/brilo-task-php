@@ -7,7 +7,7 @@
 sass --watch scss/base.scss:css/style.css --style=compressed
 ```
 
-### Install sass to project, if you do not have it.
+### Install SASS to project, if you do not have it.
 ```
 npm install -g sass
 ```
