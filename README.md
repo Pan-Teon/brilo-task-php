@@ -1,6 +1,6 @@
 # Brilo task with PHP and SASS(SCSS)
 
-## Just open index.php file with your localhost server XAMPP or MAMP or what you prefer
+## Just open index.php file with your localhost server XAMPP or MAMP or what you usually use
 
 ### For compile file style.css you must run sass command watch in assets folder
 ```
